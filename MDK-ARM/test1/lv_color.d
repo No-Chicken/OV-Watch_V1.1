@@ -1,0 +1,9 @@
+test1\lv_color.o: ..\GUI\lvgl\src\misc\lv_color.c
+test1\lv_color.o: ..\GUI\lvgl\src\misc\lv_color.h
+test1\lv_color.o: ..\GUI\lvgl\src\misc\../lv_conf_internal.h
+test1\lv_color.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+test1\lv_color.o: ..\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+test1\lv_color.o: ..\GUI\lvgl\src\misc\../../../lv_conf.h
+test1\lv_color.o: ..\GUI\lvgl\src\misc\lv_math.h
+test1\lv_color.o: ..\GUI\lvgl\src\misc\lv_types.h
+test1\lv_color.o: ..\GUI\lvgl\src\misc\lv_log.h

@@ -1,0 +1,13 @@
+test1\lv_async.o: ..\GUI\lvgl\src\misc\lv_async.c
+test1\lv_async.o: ..\GUI\lvgl\src\misc\lv_async.h
+test1\lv_async.o: ..\GUI\lvgl\src\misc\lv_timer.h
+test1\lv_async.o: ..\GUI\lvgl\src\misc\../lv_conf_internal.h
+test1\lv_async.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+test1\lv_async.o: ..\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+test1\lv_async.o: ..\GUI\lvgl\src\misc\../../../lv_conf.h
+test1\lv_async.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+test1\lv_async.o: ..\GUI\lvgl\src\misc\lv_mem.h
+test1\lv_async.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stddef.h
+test1\lv_async.o: ..\GUI\lvgl\src\misc\lv_log.h
+test1\lv_async.o: ..\GUI\lvgl\src\misc\lv_types.h
+test1\lv_async.o: ..\GUI\lvgl\src\misc\lv_ll.h

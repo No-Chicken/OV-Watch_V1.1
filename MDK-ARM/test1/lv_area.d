@@ -1,0 +1,9 @@
+test1\lv_area.o: ..\GUI\lvgl\src\misc\lv_area.c
+test1\lv_area.o: ..\GUI\lvgl\src\misc\../lv_conf_internal.h
+test1\lv_area.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+test1\lv_area.o: ..\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+test1\lv_area.o: ..\GUI\lvgl\src\misc\../../../lv_conf.h
+test1\lv_area.o: ..\GUI\lvgl\src\misc\lv_area.h
+test1\lv_area.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\string.h
+test1\lv_area.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+test1\lv_area.o: ..\GUI\lvgl\src\misc\lv_math.h
